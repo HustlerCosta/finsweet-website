@@ -1,3 +1,4 @@
 # finsweet
 
-A finsweet workshop website
+A finsweet workshop website!
+
